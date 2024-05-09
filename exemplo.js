@@ -9,7 +9,7 @@
 
 
 //concatenação -> juntar texto
-console.log("Seja bem vindo" + nome + !!!);
+//console.log("Seja bem vindo" + nome + !!!);
 
 //camelCase - JavaScript
 
@@ -24,10 +24,13 @@ console.log("Seja bem vindo" + nome + !!!);
 //let notaAluno = prompt("Digite a nota do aluno:");
 //console.log(notaAluno);
 
-let nota1 = parseInt(prompt("digite uma nota:"))
+//let nota1 = parseInt(prompt("digite uma nota:"))
 
-let nota2 = parseInt(prompt("digite outra nota:"))
+//let nota2 = parseInt(prompt("digite outra nota:"))
 
-let media = (nota1 + nota2) /2
+//let media = (nota1 + nota2) /2
 
-console.log(media)
+//console.log(media)
+
+//parsefloat => transforma o que esta entre () em numero com virgula/ fracionado
+
